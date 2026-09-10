@@ -1,7 +1,8 @@
 const SOURCE_CONFIG = Object.freeze([
   { id: '1i5SnD7uRGjwUioVFC4nkiBYvxxjEhRBssg8jnoYEZls', division: 'ฝ่ายบริหารงานทั่วไป', divisionKey: 'general' },
   { id: '1_zCxLke8OXnXdBbuLUz1aIfsvvw1zsk7hXbpDvHWebk', division: 'ฝ่ายบริหารงานบุคคลและกิจการนักเรียน', divisionKey: 'personnel' },
-  { id: '1On8aCDfQlu3T5QfNPzcNVOZTNyYSpSatn2QO_oEIhDs', division: 'ฝ่ายบริหารงานวิชาการ', divisionKey: 'academic' }
+  { id: '1On8aCDfQlu3T5QfNPzcNVOZTNyYSpSatn2QO_oEIhDs', division: 'ฝ่ายบริหารงานวิชาการ', divisionKey: 'academic' },
+  { id: '1OR_S9HfA_gcw3fBCyC2o4-RSvwaMLdWd79pd9cls630', division: 'ฝ่ายบริหารงานงบประมาณ', divisionKey: 'budget' }
 ]);
 
 const THAI_MONTHS = Object.freeze({'ม.ค.':1,'ก.พ.':2,'มี.ค.':3,'เม.ย.':4,'พ.ค.':5,'มิ.ย.':6,'ก.ค.':7,'ส.ค.':8,'ก.ย.':9,'ต.ค.':10,'พ.ย.':11,'ธ.ค.':12});
